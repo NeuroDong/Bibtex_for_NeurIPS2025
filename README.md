@@ -1,3 +1,5 @@
+English| [Chinese](https://github.com/NeuroDong/Bibtex_for_NeurIPS2025/blob/main/chinese_doc.md)
+
 # Bibtex_for_NeurIPS2025
 Provide .bst files for NeurIPS latex template. See the effect: [neurips_2024.pdf](https://github.com/NeuroDong/Bibtex_for_NeurIPS2025/blob/main/neurips_2024.pdf)
 
