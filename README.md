@@ -3,5 +3,5 @@ English| [Chinese](https://github.com/NeuroDong/Bibtex_for_NeurIPS2025/blob/main
 # Bibtex_for_NeurIPS2025
 Provide .bst files for NeurIPS latex template to facilitate Bibtex that meets official requirements. See the effect: [neurips_2025.pdf](https://github.com/NeuroDong/Bibtex_for_NeurIPS2025/blob/main/neurips_2025.pdf)
 
-# Continuous Update
-This repository will be updated continuously for a long time. Welcome to use this repository, raise issues, and push requests to help optimize this template to help better community members' papers get accepted by NeurIPS.
+# Stop Updating
+Since NeurIPS supports any citation style (e.g., plainnat, abbrvnat, unsrtnat, and IEEEtran), this repository is no longer updated. Please use it with caution.
